@@ -1,0 +1,4 @@
+Test Case No.,Test Case,Test Data,Test Result
+1,Verify whether Contacts are displaying properly,Any number in contact list,Displayed searched contact
+2,Verify message sending to contact,Any number in contact list,Successfully sent message
+3,Verify log out functionality,,Successfully logged out
